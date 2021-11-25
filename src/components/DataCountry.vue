@@ -32,6 +32,5 @@ export default{
     padding: 20px;
     margin-top:5%;
     background-color:bisque;
-    text-align:center;
 }
 </style>
